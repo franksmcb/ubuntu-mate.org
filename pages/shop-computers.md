@@ -32,26 +32,7 @@ catalogue: #noi18n
             64GB DDR4 2666 MHz, up to 6TB storage, 17.3” Matte FHD LED (1920x1080),
             Intel® UHD Graphics, optional NVIDIA® Graphics.
 
-        - name: 15" Kratos
-          price: Starting at £949.99
-          img: /images/shop/entroware/kratos_front_mate.png
-          url: https://www.entroware.com/store/kratos?tracking=ubmate
-          description: >-
-
-            Configurable with 9th Generation Intel® Core™ Processors, up to
-            32GB DDR4 2666 MHz, up to 6TB storage, 15.6” Matte FHD LED (1920x1080),
-            NVIDIA® GeForce GTX 1650 4GB.
-
-        - name: 15" Proteus
-          price: Starting at £769.99
-          img: /images/shop/entroware/proteus_front_mate.png
-          url: https://www.entroware.com/store/proteus?tracking=ubmate
-          description: >-
-
-            Configurable with 10th Generation Intel® Core™ Processors, up to
-            64GB DDR4 2666 MHz, up to 2TB storage, 15.6” Matte FHD LED (1920x1080),
-            Intel® UHD Graphics.
-
+        
         - name: 17" Athena
           price: Starting at £1399.99
           img: /images/shop/entroware/athena_front_mate.png
